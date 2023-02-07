@@ -1,0 +1,17 @@
+hardhat.config.ts
+scripts
+test
+cache
+artifacts
+.vscode
+typechain-types
+.openzeppelin
+addresses.json
+.solhint.json
+.solhintignore
+.prettierignore
+.eslintignore
+.eslintrc.js
+.env.example
+.env
+node_modules
